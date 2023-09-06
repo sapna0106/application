@@ -1,2 +1,2 @@
 this is fileA
-this is a cgange to file a
+this is a change to file A
